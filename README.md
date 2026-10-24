@@ -1,8 +1,8 @@
-\# Taller de Análisis Predictivo
+# Taller de Análisis Predictivo
 
 
 
-\## Descripción
+## Descripción
 
 
 
@@ -10,7 +10,7 @@ Este proyecto corresponde a un taller académico de análisis predictivo desarro
 
 
 
-\## Objetivo
+## Objetivo
 
 
 
@@ -18,35 +18,35 @@ Aplicar los conceptos básicos del análisis predictivo mediante la preparación
 
 
 
-\## Archivos del proyecto
+## Archivos del proyecto
 
 
 
-\- `Informe\_Analisis\_Predictivo.ipynb`: notebook de Google Colab con el código, las explicaciones, las tablas, las gráficas y las conclusiones.
+- `Informe\_Analisis\_Predictivo.ipynb`: notebook de Google Colab con el código, las explicaciones, las tablas, las gráficas y las conclusiones.
 
-\- `online\_retail\_limpio.csv`: conjunto de datos utilizado para realizar el análisis.
-
-
-
-\## Herramientas utilizadas
+- `online\_retail\_limpio.csv`: conjunto de datos utilizado para realizar el análisis.
 
 
 
-\- Python
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- Scikit-learn
-
-\- Google Colab
+## Herramientas utilizadas
 
 
 
-\## Modelos utilizados
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Scikit-learn
+
+- Google Colab
+
+
+
+## Modelos utilizados
 
 
 
@@ -54,9 +54,9 @@ Se desarrollaron dos modelos de regresión lineal:
 
 
 
-1\. Un modelo que utiliza el orden de los días como variable predictora.
+1. Un modelo que utiliza el orden de los días como variable predictora.
 
-2\. Un modelo que incorpora el orden de los días, el día de la semana y el mes.
+2. Un modelo que incorpora el orden de los días, el día de la semana y el mes.
 
 
 
@@ -64,15 +64,15 @@ Los modelos se evaluaron mediante MAE, RMSE y R². El segundo modelo obtuvo mejo
 
 
 
-\## Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 
 
-1\. Descarga los archivos del repositorio o abre el notebook directamente en Google Colab.
+1. Descarga los archivos del repositorio o abre el notebook directamente en Google Colab.
 
-2\. Descarga `online\_retail\_limpio.csv` y súbelo a la sesión de Colab.
+2. Descarga `online\_retail\_limpio.csv` y súbelo a la sesión de Colab.
 
-3\. Ejecuta las celdas del notebook en orden.
+3. Ejecuta las celdas del notebook en orden.
 
 
 
@@ -92,7 +92,7 @@ Por lo tanto, el archivo CSV debe estar disponible en la ruta `/content/` de Goo
 
 
 
-\## Conclusión
+## Conclusión
 
 
 
